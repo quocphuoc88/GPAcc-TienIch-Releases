@@ -51,6 +51,16 @@
               "strict_min_version": "140.0"
             }
           }
+        },
+        {
+          "version": "0.13.6",
+          "update_link": "https://github.com/quocphuoc88/GPAcc-TienIch-Releases/releases/download/v0.13.6/gpacc-tien-ich-0.13.6.xpi",
+          "update_hash": "sha256:64d5ec70ffdff4bc0cc9e8d60fc5ae7adc710adbd5616985c60d6ba96d687c12",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
         }
       ]
     }
