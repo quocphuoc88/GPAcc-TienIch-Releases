@@ -3,16 +3,6 @@
     "tien-ich@gpacc.local": {
       "updates": [
         {
-          "version": "0.13.3",
-          "update_link": "https://github.com/quocphuoc88/GPAcc-TienIch-Releases/releases/download/v0.13.3/gpacc-tien-ich-0.13.3.xpi",
-          "update_hash": "sha256:cda6fa6a00c48d1e1765e43d1d9d87b685d4a4fcfae6d684f18fcb7d0a28da80",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "140.0"
-            }
-          }
-        },
-        {
           "version": "0.13.4",
           "update_link": "https://github.com/quocphuoc88/GPAcc-TienIch-Releases/releases/download/v0.13.4/gpacc-tien-ich-0.13.4.xpi",
           "update_hash": "sha256:5c4cc5902c53a9ed9f959b4057e8c8a17ebf93f26a5b725f62f6aceac6c89547",
@@ -96,6 +86,16 @@
           "version": "0.16.1",
           "update_link": "https://github.com/quocphuoc88/GPAcc-TienIch-Releases/releases/download/v0.16.1/gpacc-tien-ich-0.16.1.xpi",
           "update_hash": "sha256:039b53d7647ec559f927b4105d9cc70e94936e11ce9dad864f0014938e027e75",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        },
+        {
+          "version": "0.16.2",
+          "update_link": "https://github.com/quocphuoc88/GPAcc-TienIch-Releases/releases/download/v0.16.2/gpacc-tien-ich-0.16.2.xpi",
+          "update_hash": "sha256:56aac356c6f09e531771df9ef904a962968a81872889f7e3a19c4e6db13c0339",
           "applications": {
             "gecko": {
               "strict_min_version": "140.0"
